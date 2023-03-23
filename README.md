@@ -6,13 +6,17 @@ O "Consultas_BLT" é um script desenvolvido em linguagem de programação Python
 <h2 align="center">Funcionamento 🛠️</h1>
 O script é composto por diversas funções que utilizam APIs públicas e privadas para buscar as informações solicitadas pelo usuário. As APIs utilizadas são atualizadas e confiáveis, garantindo a precisão dos resultados obtidos. O script também possui tratamento de erros, garantindo que o usuário receba uma mensagem clara em caso de falha na consulta. 🛡️
 
-<h2 align="center">Instalação 🔧✅</h2>
-Para utilizar o "Consultas_BLT", basta colocar os comandos abaixo para executar o script no terminal. O usuário deve inserir os dados que deseja consultar e o script irá retornar as informações relevantes. 📝
+
+
+
+## Instalação 🔧✅
+Para utilizar o "Consultas_BLT", basta colocar os comandos abaixo para executar o script no terminal. O usuário deve inserir os dados que deseja consultar e o script irá retornar as informações relevantes. 📝:
 ```sh
-sudo apt install git python3
-git clone https://github.com/FoxsBlintersOFC07/Consultas_BLT.git
-cd Consultas_BLT
-python menu.py
+pkg install git && pkg install python3
+git clone https://github.com/FoxsBlintersOFC07/F0X-SMS.git
+cd F0X-SMS
+bash instalar.sh
+python3 FoxSMS.py
 ```
 
 <h2 align="center">Conclusão 🎉</h2>
