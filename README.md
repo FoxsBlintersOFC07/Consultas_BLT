@@ -1,5 +1,5 @@
 # 🔍CONSULTAS BLT🌐
-<h1 align="center">Introdução📋:"</h1>
+<h1 align="center">Introdução📋:</h1>
 
 O "Consultas_BLT" é um script desenvolvido em linguagem de programação Python que permite a realização de consultas de informações diversas, como dados de um IP🌐, CNPJ📈, CEP🏠 e outros (Logo terá mais funções, como CPF, Número de telefone, etc...". Com uma interface simples e intuitiva, o script permite que o usuário insira os dados que deseja consultar e obtenha as informações relevantes de forma rápida e fácil. 🚀
 
