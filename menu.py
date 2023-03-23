@@ -41,7 +41,7 @@ def menu():
     if platform.system() == "Windows":
       os.system("python index_win.py")
     elif platform.system() == "Linux":
-      os.system("python index_ter")
+      os.system("python index_ter.py")
     else:
      os.system("python index_ter.py")
 
