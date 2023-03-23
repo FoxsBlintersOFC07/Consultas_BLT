@@ -12,11 +12,9 @@ O script é composto por diversas funções que utilizam APIs públicas e privad
 ## Instalação 🔧✅
 Para utilizar o "Consultas_BLT", basta colocar os comandos abaixo para executar o script no terminal. O usuário deve inserir os dados que deseja consultar e o script irá retornar as informações relevantes. 📝:
 ```sh
-pkg install git && pkg install python3
-git clone https://github.com/FoxsBlintersOFC07/F0X-SMS.git
-cd F0X-SMS
-bash instalar.sh
-python3 FoxSMS.py
+git clone https://github.com/FoxsBlintersOFC07/Consultas_BLT.git
+cd Consultas_BLT
+python menu.py
 ```
 
 <h2 align="center">Conclusão 🎉</h2>
